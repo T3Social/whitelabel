@@ -1,0 +1,14 @@
+{
+  "id": "whitelabel",
+  "name": "Whitelabel",
+  "description": "Removes the 'Powered By HumHub' links from the footer navigation and emails.",
+  "keywords": [
+    "whitelabel"
+  ],
+  "version": "1.0.0",
+  "humhub": {
+    "minVersion": "1.4"
+  },
+  "homepage": "https://github.com/humhub/humhub-modules-whitelabel",
+  "screenshots": []
+}
